@@ -1,4 +1,4 @@
-### 抓取星辰天合公司主页校招职位信息
+### Catch the star tianhe home page school recruitment position information
 
 #### 使用requests抓取
 
